@@ -1,0 +1,13 @@
+{
+  "plugins": ["jest"],
+  "extends": [
+    "airbnb",
+    "prettier",
+    "prettier/react",
+    "plugin:jest/recommended",
+    "plugin:jest/style"
+  ],
+  "env": {
+    "jest/globals": true
+  }
+}

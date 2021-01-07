@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a [Next.js](https://nextjs.org/) boilerplate, which contains **Emotion** and **Jest** ready to be used!
 
 ## Getting Started
 
@@ -8,6 +8,18 @@ First, run the development server:
 npm run dev
 # or
 yarn dev
+```
+
+To test, you can run:
+
+```bash
+yarn test
+#or
+yarn test:snapshots
+#or
+yarn test:watch
+#or
+yarn test:ci
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.

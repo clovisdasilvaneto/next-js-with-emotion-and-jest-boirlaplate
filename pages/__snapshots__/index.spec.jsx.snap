@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Hom Component Should render the defualt layout 1`] = `"<div><p class=\\"css-qm6gfa\\">Hey, I'm using emotion with theme!</p></div>"`;
