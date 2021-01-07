@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) boilerplate, which contains **Emotion** and **Jest** ready to be used!
+This is a [Next.js](https://nextjs.org/) boilerplate, which contains **Emotion**, **React Testing Library** and **Jest** ready to be used!
 
 ## Getting Started
 
